@@ -1,0 +1,4 @@
+/.vscode/
+/project/mdk/out_file/
+/project/mdk/*.uvgui.*
+/project/mdk/*.uvopt
